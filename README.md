@@ -1,4 +1,4 @@
-# School_District_Analysis by Ketaki
+# School District Analysis by Ketaki
 Analysis of School District Data for Data Science Class
 ## Overview of the school district analysis
 The purpose of this analysis is to find any evidence of academic dishonesty for Thomas High school ninth graders scores. This is done by replacing the values of reading and math scores of ninth graders of Thomas High school by NaNs and repeating the school district analysis on the datasets.
