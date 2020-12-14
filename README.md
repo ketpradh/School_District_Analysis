@@ -8,17 +8,21 @@ We can find that the results of the altered dataset and the original dataset was
 ### District summary changes:
 The district summary is similar as before, with slight changes to the passing percentage that dropped by ~0.2%. 
 -Before:
- --Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-   ---15	          39,170	        $24,649,428.00	  79.0	             81.9	                 **75.0**	         **85.8**            **65.2**
+ --% Passing Math - **75.0**	
+ --% Passing Reading - **85.8** 
+ --% Overall Passing -  **65.2**
+ 
 -After:**
--Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
--15	              39,170	    $24,649,428.00	    78.9	            81.9	               **74.8**	         **85.7**	            **64.9**
+ --% Passing Math - **74.8**	
+ --% Passing Reading - **85.7**	
+ --% Overall Passing - **64.9**
+	       	           
 
 ### School summary changes:
 The school summary is similar after changing the data for Thomas High school. However, the overall passing percentage for Thomas High School dropped by ~0.3%.
--Before:
-  --Thomas High School
-    --School Type  	Total Students Total School Budget Per Student Budget Average Math Score Average Reading Score %Passing Math % Passing Reading % Overall Passing
+- Before:
+  -- Thomas High School
+    --- School Type  	Total Students Total School Budget Per Student Budget Average Math Score Average Reading Score %Passing Math % Passing Reading % Overall Passing
 -      ----Charter	        1635	      $1,043,130.00	          $638.00	          83.418349	             **83.848930	        93.272171	      97.308869	        90.948012**
 -After:
 -Thomas High School
