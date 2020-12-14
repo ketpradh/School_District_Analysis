@@ -4,7 +4,7 @@ Analysis of School District Data for Data Science Class
 The purpose of this analysis is to find any evidence of academic dishonesty for Thomas High school ninth graders scores. This is done by replacing the values of reading and math scores of ninth graders of Thomas High school by NaNs and repeating the school district analysis on the datasets.
 
 ## Results 
-We can find that the results of the altered dataset and the original dataset was the same.
+We can find that the results of the altered dataset and the original dataset was similar. Here are some details:
 ### District summary changes:
 The district summary is similar as before, with slight changes to the passing percentage that dropped by ~0.2%. 
 **Before:**
