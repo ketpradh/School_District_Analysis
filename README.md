@@ -38,4 +38,4 @@ Four major changes in the updated school district analysis after reading and mat
 - The district summary is similar as before, with slight changes to the passing percentage that dropped by ~0.2%. 
 - The school summary is similar after changing the data for Thomas High school. However, the overall passing percentage for Thomas High School dropped by ~0.3%.
 - The changes in the other summary categories by grades, spending, size and type are less than 0.1.
-- Since no major changes were seen, there seems to be less evidence of academic dishonesty from Thomas High School.
+- Since no major changes were seen, there seems to be less evidence of academic dishonesty from Thomas High School. If there was significant deviation from the original analysis, it would mean that the ranking of Thomas High School was dependent on the ninth grades, however that was not the case. 
