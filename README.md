@@ -1,10 +1,10 @@
 # School District Analysis by Ketaki
 Analysis of School District Data for Data Science Class
 ## Overview of the School District Analysis
-The purpose of this analysis is to find any evidence of academic dishonesty for Thomas High school ninth graders scores. This is done by replacing the values of reading and math scores of ninth graders of Thomas High school by NaNs and repeating the school district analysis on the datasets.
+The purpose of this analysis is to find any evidence of academic dishonesty for Thomas High school ninth graders scores. This is done by replacing the values of reading and math scores of ninth graders of Thomas High school by NaNs and repeating the school district analysis on the datasets. Using Pandas and PyNum, we can alter the datasets so that the ninth grade scores were not considered for analysis and then perform the analysis by including only the valid grades for the 10-12th grades.
 
 ## Results 
-We can find that the results of the altered dataset and the original dataset was similar. Here are some details:
+We can find that the results of the altered dataset and the original dataset was more or less similar after replacing the ninth graders scores. Here are some details:
 ### District summary changes:
 The district summary is similar as before, with slight changes to the passing percentage that dropped by ~0.2%. 
 - Before: % Passing Math - **75.0**, % Passing Reading - **85.8** , % Overall Passing -  **65.2**
@@ -25,13 +25,13 @@ However, the overall passing percentage dropped by ~0.3% as seen above.
 - Reading grades remain unchanged, except for Thomas High School 9th grade reading scores which are now NaN.
 
 ### Scores by school spending
-Scores by school spending remained same, except in the **$630-644** category where the overall passing percentage reduced than before by ~0.07%.
+Scores by school spending remained same, except in the **$630-644** category where the overall passing percentage reduced than before by **~0.07%**.
 
 ### Scores by school size
-Scores by school size remained same,except for Medium schools where the averages and overall passing percentage dropped by ~0.06%.
+Scores by school size remained same,except for Medium schools where the averages and overall passing percentage dropped by **~0.06%**.
 
 ### Scores by school type
-Scores by school type remained same, except for Charter school overall percentage reduced by ~0.04%.
+Scores by school type remained same, except for Charter school overall percentage reduced by **~0.04%**.
 
 ## Summary
 Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
