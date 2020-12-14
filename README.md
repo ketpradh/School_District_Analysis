@@ -8,14 +8,13 @@ We can find that the results of the altered dataset and the original dataset was
 ### District summary changes:
 The district summary is similar as before, with slight changes to the passing percentage that dropped by ~0.2%. 
 - Before:
-  -- % Passing Math - **75.0**	
-  -- % Passing Reading - **85.8** 
-  -- % Overall Passing -  **65.2**
- 
--After:**
- --% Passing Math - **74.8**	
- --% Passing Reading - **85.7**	
- --% Overall Passing - **64.9**
+  --% Passing Math - **75.0**	
+  --% Passing Reading - **85.8** 
+  --% Overall Passing -  **65.2**
+- After:
+  --% Passing Math - **74.8**	
+  --% Passing Reading - **85.7**	
+  --% Overall Passing - **64.9**
 	       	           
 
 ### School summary changes:
