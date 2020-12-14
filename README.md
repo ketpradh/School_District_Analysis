@@ -7,26 +7,14 @@ The purpose of this analysis is to find any evidence of academic dishonesty for 
 We can find that the results of the altered dataset and the original dataset was similar. Here are some details:
 ### District summary changes:
 The district summary is similar as before, with slight changes to the passing percentage that dropped by ~0.2%. 
-- Before:
-  -- % Passing Math - **75.0**	
-  --% Passing Reading - **85.8** 
-  --% Overall Passing -  **65.2**
-- After:
-  --% Passing Math - **74.8**	
-  --% Passing Reading - **85.7**	
-  --% Overall Passing - **64.9**
+- Before: % Passing Math - **75.0**, % Passing Reading - **85.8** , % Overall Passing -  **65.2**
+- After: % Passing Math - **74.8**, % Passing Reading - **85.7**, % Overall Passing - **64.9**
 	       	           
-
 ### School summary changes:
 The school summary is similar after changing the data for Thomas High school. However, the overall passing percentage for Thomas High School dropped by ~0.3%.
-- Before:
-  -- Thomas High School
-    --- School Type  	Total Students Total School Budget Per Student Budget Average Math Score Average Reading Score %Passing Math % Passing Reading % Overall Passing
--      ----Charter	        1635	      $1,043,130.00	          $638.00	          83.418349	             **83.848930	        93.272171	      97.308869	        90.948012**
--After:
--Thomas High School
-    --School Type  	Total Students Total School Budget Per Student Budget Average Math Score Average Reading Score %Passing Math % Passing Reading % Overall Passing
-	---Charter	       1635	             $1,043,130.00	       $638.00	          83.350937	  **83.896082	     93.185690	  97.018739	        90.630324**
+- For Thomas High School:
+- Before: %Passing Math - **93.272171**, % Passing Reading - **97.308869**, % Overall Passing -**90.948012**	            
+- After: %Passing Math -  **93.185690**, % Passing Reading - **93.185690**, % Overall Passing -**90.630324*	
 
 ### Thomas High School’s performance
 Thomas High School remained as the second highest in the top five of the overall ranking, even after replacing the grades. 
