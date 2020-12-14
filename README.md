@@ -14,7 +14,7 @@ The district summary is similar as before, with slight changes to the passing pe
 The school summary is similar after changing the data for Thomas High school. However, the overall passing percentage for Thomas High School dropped by ~0.3%.
 - For Thomas High School:
 - Before: %Passing Math - **93.272171**, % Passing Reading - **97.308869**, % Overall Passing -**90.948012**	            
-- After: %Passing Math -  **93.185690**, % Passing Reading - **93.185690**, % Overall Passing -**90.630324*	
+- After: %Passing Math -  **93.185690**, % Passing Reading - **97.018739**, % Overall Passing -**90.630324**	
 
 ### Thomas High School’s performance
 Thomas High School remained as the second highest in the top five of the overall ranking, even after replacing the grades. 
